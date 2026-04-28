@@ -1,0 +1,119 @@
+WEBVTT
+
+00:00.000 --> 00:04.000
+¿Qué es la accesibilidad?
+Seguro escuchaste hablar de ella muchas veces.
+
+00:04.000 --> 00:08.000
+Pero, ¿qué es la accesibilidad?
+
+00:08.000 --> 00:13.000
+La accesibilidad determina el grado en el que las personas
+pueden utilizar un espacio, producto o servicio,
+
+00:13.000 --> 00:18.000
+más allá de sus capacidades físicas,
+mentales o técnicas.
+
+00:18.000 --> 00:22.000
+¿Por qué se habla de grados de accesibilidad?
+
+00:22.000 --> 00:27.000
+Compará, por ejemplo, estos dos picaportes:
+uno para agarrar y otro para girar.
+
+00:27.000 --> 00:33.000
+Un picaporte palanca es más accesible que uno giratorio
+para una persona con problemas de motricidad fina,
+
+00:33.000 --> 00:37.000
+porque el mecanismo rotatorio es más complejo
+para agarrar y girar.
+
+00:37.000 --> 00:42.000
+Para entender bien de qué se ocupa la accesibilidad,
+primero tenés que conocer los tipos de limitaciones
+que puede tener una persona.
+
+00:42.000 --> 00:47.000
+Las dificultades visuales comprenden desde la ceguera
+hasta los grados más leves de visión reducida.
+
+00:47.000 --> 00:52.000
+También condiciones como la degeneración macular
+o inconvenientes para distinguir colores.
+
+00:52.000 --> 00:58.000
+Entre las deficiencias auditivas están la sordera
+y los diferentes niveles de hipoacusia.
+
+00:58.000 --> 01:03.000
+Los problemas motrices incluyen las dificultades
+para trasladarse y manipular objetos.
+
+01:03.000 --> 01:08.000
+Esos problemas pueden ser por una hemiplejia,
+incidentes como una amputación o enfermedades
+como el mal de Parkinson.
+
+01:08.000 --> 01:14.000
+Las limitaciones cognitivas abarcan los trastornos
+que afectan el aprendizaje, como la dislexia,
+
+01:14.000 --> 01:19.000
+y otros problemas vinculados a la memoria,
+la atención y diversos procesos mentales.
+
+01:19.000 --> 01:24.000
+Es necesario tener en cuenta la accesibilidad
+a la hora de pensar cualquier proyecto o sitio web.
+
+01:24.000 --> 01:30.000
+Según la División de Política Social y Desarrollo
+de las Naciones Unidas,
+
+01:30.000 --> 01:35.000
+un 15 % de la población mundial vive
+con algún tipo de discapacidad.
+
+01:35.000 --> 01:40.000
+Esto es aproximadamente
+1000 millones de personas.
+
+01:40.000 --> 01:45.000
+En la Encuesta Nacional de Personas con Discapacidad
+del año 2006,
+
+01:45.000 --> 01:50.000
+más de dos millones de personas manifestaron
+algún tipo de discapacidad en nuestro país,
+
+01:50.000 --> 01:54.000
+aproximadamente el 7 %.
+
+01:54.000 --> 02:00.000
+Si no sos de ese grupo, imaginate el beneficio
+que sería contar con un diseño accesible
+
+02:00.000 --> 02:05.000
+en caso de una discapacidad temporaria
+o para los problemas y enfermedades
+que aparecen con la vejez.
+
+02:05.000 --> 02:10.000
+El número de personas con más de 60 años
+aumentó un 48 % entre 2000 y 2015.
+
+02:10.000 --> 02:15.000
+Se espera que este sector de la población
+se duplique para 2050,
+
+02:15.000 --> 02:20.000
+hasta alcanzar los 2 mil millones de personas.
+
+02:20.000 --> 02:23.000
+¿Qué nos dice todo esto?
+
+02:23.000 --> 02:28.000
+Que no son pocos los que pueden o podrán beneficiarse
+con un diseño accesible.
